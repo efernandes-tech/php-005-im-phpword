@@ -1,12 +1,15 @@
 PHP - iMasters
 
 # Passo a Passo:
-- Criar pasta do projeto.
-- Acessar a pasta pelo prompt.
+- Criar pasta do projeto e acessar pelo prompt.
 - Iniciar projeto com composer.
     composer init
-- Adicionando autoload.
+- Adicionar autoload.
     composer dumpautoload
+- Adicionar o projeto no GitHub.
+- Adicionar o ".gitignore".
+- Iniciar o servidor PHP.
+    php -S localhost:8000
 
 # Anotações
 - Post base "https://imasters.com.br/desenvolvimento/escrevendo-arquivos-de-texto-com-o-phpword/".
