@@ -1,6 +1,6 @@
 PHP - iMasters
 
-# Passo a Passo:
+# Passo a Passo Inicial:
 - Criar pasta do projeto e acessar pelo prompt.
 - Iniciar projeto com composer.
     composer init
@@ -13,3 +13,8 @@ PHP - iMasters
 
 # Anotações
 - Post base "https://imasters.com.br/desenvolvimento/escrevendo-arquivos-de-texto-com-o-phpword/".
+- Instalar o PHPWord.
+    composer require phpoffice/phpword
+- Rodar arquivo para criar Word.
+    php first.php
+    php second.php
