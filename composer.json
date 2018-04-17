@@ -1,0 +1,10 @@
+{
+    "name": "ederson.fernandes/php-005-im-phpword",
+    "authors": [
+        {
+            "name": "Éderson Fernandes",
+            "email": "edersonluis.rf@gmail.com"
+        }
+    ],
+    "require": {}
+}

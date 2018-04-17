@@ -1,0 +1,12 @@
+PHP - iMasters
+
+# Passo a Passo:
+- Criar pasta do projeto.
+- Acessar a pasta pelo prompt.
+- Iniciar projeto com composer.
+    composer init
+- Adicionando autoload.
+    composer dumpautoload
+
+# Anotações
+- Post base "https://imasters.com.br/desenvolvimento/escrevendo-arquivos-de-texto-com-o-phpword/".
